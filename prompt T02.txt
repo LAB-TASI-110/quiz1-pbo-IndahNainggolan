@@ -1,0 +1,7 @@
+bantu saya mengerjakan quiz pbo saya,mengerjakan sebuah pemrograman dan memberikan kode yang berisi solusi
+nah aku lagi mengerjkan soal ke dua,yang dimana soal ini bercerita tentang deret adaa nama yang masing masing memiliki nilai yohana=75,julius=65,indah=80,wilson=70
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.  ini soalnya
